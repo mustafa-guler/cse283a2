@@ -1,7 +1,4 @@
-# cse283a2
-assignment 2 cse283
-
-## Question 2
+# Question 2
 All scripts were compiled into one file, `question2.py`.
 It takes an argument to determine which part to run.
 
